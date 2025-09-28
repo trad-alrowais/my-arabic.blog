@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://username.github.io/my-arabic-blog/sitemap.xml
+Sitemap: https://my-arabic.blog.github.io/sitemap.xml
